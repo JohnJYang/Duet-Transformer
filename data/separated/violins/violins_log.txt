@@ -1,0 +1,348 @@
+0 data/violin_duet/carol_of_the_bellsVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+1 data/violin_duet/parkgate_highVLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+2 data/violin_duet/danny_boy_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+3 data/violin_duet/ashgrove_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+4 data/violin_duet/Ciribiribin_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+5 data/violin_duet/Mozart12_11VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+6 data/violin_duet/Menuett1VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+7 data/violin_duet/old_macdonald_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+8 data/violin_duet/duos_adagioVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+9 data/violin_duet/oh_susannavln_duet.mid [Instrument(program=45, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=45, is_drum=False, name="Violin 2")]
+
+10 data/violin_duet/mozart_sym40_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+11 data/violin_duet/mascagni_intermezzo_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+12 data/violin_duet/maple_leaf_rag_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+13 data/violin_duet/brahms_hungarian_dance_5.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+14 data/violin_duet/respighi_siciliana_VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+15 data/violin_duet/daisy_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+16 data/violin_duet/she_moved_2VLN.mid [Instrument(program=52, is_drum=False, name="Violin/Voice"), Instrument(program=40, is_drum=False, name="Violin")]
+
+17 data/violin_duet/euphonic_soundsVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+18 data/violin_duet/morning_has_broken_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+19 data/violin_duet/march_priests_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+20 data/violin_duet/twinkle_twinkle_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+21 data/violin_duet/voicesofspring_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+22 data/violin_duet/cwm_rhondda_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+23 data/violin_duet/the_entertainer_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+24 data/violin_duet/arne_MinuetVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+25 data/violin_duet/how_great_thou_art_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+26 data/violin_duet/spanish_violin_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=45, is_drum=False, name="Violin 2")]
+
+27 data/violin_duet/bach_minuet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+28 data/violin_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin")]
+
+29 data/violin_duet/irish_jig_medley_vn_Duet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+30 data/violin_duet/i_love_the_mountainsVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1-4"), Instrument(program=40, is_drum=False, name="Violin")]
+
+31 data/violin_duet/la_roseVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+32 data/violin_duet/handel_queen_of_sheeba.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+33 data/violin_duet/duos_marciaVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+34 data/violin_duet/yellow_bird_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+35 data/violin_duet/hip_hop_house.mid [Instrument(program=0, is_drum=False, name="Violin 1"), Instrument(program=0, is_drum=False, name="Violin 2")]
+
+36 data/violin_duet/mountain_thyme_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+37 data/violin_duet/boccherini_minuet.mid [Instrument(program=0, is_drum=False, name=""), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+38 data/violin_duet/dvorak_op98_no.vVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+39 data/violin_duet/mozart_k487_no3VLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+40 data/violin_duet/Zitter_Waltz_2Vln.mid [Instrument(program=0, is_drum=False, name="Vln. 1"), Instrument(program=0, is_drum=False, name="Vln. 2")]
+
+41 data/violin_duet/serenade_k361_3rd_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+42 data/violin_duet/mendelssohn_italianVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+43 data/violin_duet/beethoven_musical_clock.mid [Instrument(program=40, is_drum=False, name="Violin I"), Instrument(program=40, is_drum=False, name="Violin II")]
+
+44 data/violin_duet/Birds_Galopade_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+45 data/violin_duet/chanson_bohemeVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+46 data/violin_duet/brahms_waltz_vn_duet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+47 data/violin_duet/scene_finale_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+48 data/violin_duet/carolansVLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+49 data/violin_duet/DvorakFromtheNewWorldVLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+50 data/violin_duet/Mozart12_9VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+51 data/violin_duet/seraglio_duetVLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+52 data/violin_duet/ElgarSerenadeVLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+53 data/violin_duet/onward_christian_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+54 data/violin_duet/in_the_sweet_by_and_byVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+55 data/violin_duet/mozart_k487_no5VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+56 data/violin_duet/submarine_warfareVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+57 data/violin_duet/agentVLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+58 data/violin_duet/bach_jesu_joy.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin")]
+
+59 data/violin_duet/tico_tico_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+60 data/violin_duet/coventry_carolVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+61 data/violin_duet/barcarolle_vn_duet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+62 data/violin_duet/brahms_sym3_mvt3_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+63 data/violin_duet/mozart_k487_no1.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+64 data/violin_duet/haydn_3duets_menuetto2VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+65 data/violin_duet/military_sinfoniaVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+66 data/violin_duet/bach_minuet_in_gminor_bwv_anh_115_vn_duet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+67 data/violin_duet/dvorak_humoresque_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+68 data/violin_duet/silver_sand_ragVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+69 data/violin_duet/shenandoah_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+70 data/violin_duet/wanhall_5VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+71 data/violin_duet/bach_air.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+72 data/violin_duet/jingle_bells_boogie.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin")]
+
+73 data/violin_duet/it_is_well_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+74 data/violin_duet/spring_longer_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+75 data/violin_duet/bach_watchet_vns.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+76 data/violin_duet/manly_heartVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+77 data/violin_duet/ball_game_vln_duet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=45, is_drum=False, name="Violin 2")]
+
+78 data/violin_duet/mozart_k487_no2.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+79 data/violin_duet/beethoven_ode_to_joyVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+80 data/violin_duet/beethoven_theme_op76vlnduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+81 data/violin_duet/rugged_cross_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+82 data/violin_duet/faure_pavane.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+83 data/violin_duet/mozart_k487_no4VLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+84 data/violin_duet/devilsdreamvln_duet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+85 data/violin_duet/SivivonVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+86 data/violin_duet/gavotte_gossec_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+87 data/violin_duet/loch_lomondVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+88 data/violin_duet/marionetteVLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+89 data/violin_duet/saint_saens_elephant_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+90 data/violin_duet/la_paloma_tango.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+91 data/violin_duet/Brahms_Sym1_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+92 data/violin_duet/o_holy_night_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+93 data/violin_duet/golondrinaVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+94 data/violin_duet/haydn_3duets_menuetto1VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+95 data/violin_duet/la_virtuosaVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+96 data/violin_duet/grandfather.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=45, is_drum=False, name="Violin")]
+
+97 data/violin_duet/poulesVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+98 data/violin_duet/simple_gifts.mid [Instrument(program=0, is_drum=False, name="Violin 1"), Instrument(program=0, is_drum=False, name="Violin 2")]
+
+99 data/violin_duet/dansemacsaintsa_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+100 data/violin_duet/anchors_aweigh_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+101 data/violin_duet/the_easy_winnersVLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+102 data/violin_duet/DUETPearlFishersVLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+103 data/violin_duet/four_short_seasons_VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+104 data/violin_duet/zwiefacher_eisenkeilnestVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+105 data/violin_duet/kv545-allegro_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+106 data/violin_duet/rossini_william_tell_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+107 data/violin_duet/away_in_a_mangervlns.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+108 data/violin_duet/jasmine_flower_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+109 data/violin_duet/were_you_thereVLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+110 data/violin_duet/handel_sarabande_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+111 data/violin_duet/bachariosobwv156_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+112 data/violin_duet/lakme_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+113 data/violin_duet/poppea_pur_tiVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+114 data/violin_duet/bach_sheep.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+115 data/violin_duet/Mozart12_10VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+116 data/violin_duet/schumann_melodyVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+117 data/violin_duet/Mozart12_7VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+118 data/violin_duet/o_sole_mioVLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+119 data/violin_duet/radetsky_marchVLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+120 data/violin_duet/bleak_midwinter_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+121 data/violin_duet/cat_duetVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+122 data/violin_duet/mozart_k487_no6VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+123 data/violin_duet/saint_saens_swan.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=45, is_drum=False, name="Violin 2")]
+
+124 data/violin_duet/capriccio.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+125 data/violin_duet/fete_torerosVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+126 data/violin_duet/tchaik_serenade_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+127 data/violin_duet/drink_to_meVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+128 data/violin_duet/house_of_the_rising_sun_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+129 data/violin_duet/the_rose_of_tralee_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+130 data/violin_duet/national_anthem_russia_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+131 data/violin_duet/franck_panis_angelicus_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+132 data/violin_duet/ding_dong_vlnd.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+133 data/violin_duet/wfbach_2nd_viola_duetVLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+134 data/violin_duet/la_marseilleiseVLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+135 data/violin_duet/clementi_un_poco_adagioVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+136 data/violin_duet/come_thou_fount_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+137 data/violin_duet/partita830VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+138 data/violin_duet/gardel_por.mid [Instrument(program=0, is_drum=False, name="Violin 1"), Instrument(program=0, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+139 data/violin_duet/schubert_ave_maria.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+140 data/violin_duet/gesu_bambinovlnduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+141 data/violin_duet/when_the_saints2VLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+142 data/violin_duet/battle_hymn_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+143 data/violin_duet/god_gloryVNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+144 data/violin_duet/tchaik6_2_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+145 data/violin_duet/alabamajubileeVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+146 data/violin_duet/goodking.mid [Instrument(program=48, is_drum=False, name="Violin"), Instrument(program=48, is_drum=False, name="Violin")]
+
+147 data/violin_duet/ButterworthTheBanksfGreenWillowVLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+148 data/violin_duet/MenuettinCLMozartVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+149 data/violin_duet/faure_pie_jesu_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+150 data/violin_duet/la_cucaracha.mid [Instrument(program=0, is_drum=False, name="Violin 1"), Instrument(program=0, is_drum=False, name="Violin 2")]
+
+151 data/violin_duet/Mozart12_12VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+152 data/violin_duet/stannesreel_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+153 data/violin_duet/mozmin.mid [Instrument(program=0, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Violin")]
+
+154 data/violin_duet/daquin_le_coucou_VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+155 data/violin_duet/minuet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+156 data/violin_duet/alabama2VLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+157 data/violin_duet/but_ere_we_thisVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+158 data/violin_duet/mozart_sym25_2vln.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+159 data/violin_duet/trumpet_voluntary_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+160 data/violin_duet/tipperary_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+161 data/violin_duet/at_the_cross_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+162 data/violin_duet/angels_v2_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+163 data/violin_duet/mozart_sonata331VLNs.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+164 data/violin_duet/silent_night.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+165 data/violin_duet/Mozart12_8VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+166 data/violin_duet/bach_double.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=0, is_drum=False, name="Piano")]
+
+167 data/violin_duet/giordani_caro_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+168 data/violin_duet/puccini_beloved_father_2VLN.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+169 data/violin_duet/schubert_sym_5VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+170 data/violin_duet/o_comeVLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+171 data/violin_duet/mexican_hat_dance2VLN.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+
+172 data/violin_duet/when_the_saints_CM_VLNDUET.mid [Instrument(program=40, is_drum=False, name="Violin 1"), Instrument(program=40, is_drum=False, name="Violin 2")]
+
+173 data/violin_duet/wanhall_1VLNduet.mid [Instrument(program=40, is_drum=False, name="Violin"), Instrument(program=40, is_drum=False, name="Violin")]
+

@@ -1,0 +1,158 @@
+0 data/guitar_duet/berceuse_torres_2GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name="Guitar 2")]
+
+1 data/guitar_duet/OhThouWhoCamestduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+2 data/guitar_duet/carulli_op120_4_2GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name="Guitar 2")]
+
+3 data/guitar_duet/sicilian_donGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+4 data/guitar_duet/Rach_Pno_3GUITduet.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+5 data/guitar_duet/Swallowtail_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+6 data/guitar_duet/alabama2GUITs.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+7 data/guitar_duet/Thinebeduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+8 data/guitar_duet/o_holy_night.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2")]
+
+9 data/guitar_duet/worried_man.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name="Guitar 2")]
+
+10 data/guitar_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="Guitar")]
+
+11 data/guitar_duet/agentGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+12 data/guitar_duet/vivaldi_winter.mid [Instrument(program=0, is_drum=False, name="Guitar 1     Guitar 2"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 1    Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+13 data/guitar_duet/Siciliana_TWO_GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+14 data/guitar_duet/chopin_prelude28.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2")]
+
+15 data/guitar_duet/WaltzDieFledermausduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+16 data/guitar_duet/TheSwanduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+17 data/guitar_duet/tom_dooleyGD.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+18 data/guitar_duet/IHaveaSongtoSingGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+19 data/guitar_duet/cc_rider_blues.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+20 data/guitar_duet/TheElephantduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+21 data/guitar_duet/la_cucaracha2GUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+22 data/guitar_duet/joseph_kuffner_op168_49_2GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar 2"), Instrument(program=24, is_drum=False, name="")]
+
+23 data/guitar_duet/The_Resting_Chair_2GTRS.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+24 data/guitar_duet/carulli_op120_5_2GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name="Guitar 2")]
+
+25 data/guitar_duet/tarantella.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+26 data/guitar_duet/Woodchoppers_Reel_2GTRS.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+27 data/guitar_duet/Zitter_Waltz_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+28 data/guitar_duet/Grandmother_Tells_A_Ghost_Story_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]")]
+
+29 data/guitar_duet/SouthAfricanAnthemduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+30 data/guitar_duet/i_have_lost_youGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+31 data/guitar_duet/TheDeathofAsesduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+32 data/guitar_duet/bach_air.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name="Guitar 2")]
+
+33 data/guitar_duet/Birds_Galopade_2GTR.mid [Instrument(program=24, is_drum=False, name="ARIA Player"), Instrument(program=1, is_drum=False, name="ARIA Player"), Instrument(program=24, is_drum=False, name="ARIA Player"), Instrument(program=1, is_drum=False, name="ARIA Player")]
+
+34 data/guitar_duet/away_in_a_manger.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+35 data/guitar_duet/douce_dame.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+36 data/guitar_duet/rowing_homeGUIT.mid [Instrument(program=0, is_drum=False, name="Acoustic Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Acoustic Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+37 data/guitar_duet/four_short_seasons_GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name="Guitar 2")]
+
+38 data/guitar_duet/Flop_Eared_Mule_2GTRS.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+39 data/guitar_duet/Staines_Morris_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+40 data/guitar_duet/ToaWildRoseduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+41 data/guitar_duet/TheFortuneTellerduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+42 data/guitar_duet/submarine_warfareGUITduet.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+43 data/guitar_duet/faure_pavane.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+44 data/guitar_duet/vivaldi_autumn.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="Guitar")]
+
+45 data/guitar_duet/la_paloma_tango.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+46 data/guitar_duet/Concerto_for_Two_Mandolins_GTRDuet.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar 2"), Instrument(program=24, is_drum=False, name="")]
+
+47 data/guitar_duet/SymphonyNo8duet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+48 data/guitar_duet/simple_gifts.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+49 data/guitar_duet/rock_island_line.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+50 data/guitar_duet/WeddingMarchduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+51 data/guitar_duet/GIULANI_Polonaise_Concertante.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="Guitar")]
+
+52 data/guitar_duet/House_of_the_rising_sunGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+53 data/guitar_duet/Starsandstripesduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+54 data/guitar_duet/wabash.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name=" Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+55 data/guitar_duet/Bolero_TWO_GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]")]
+
+56 data/guitar_duet/PizzicatifromSylviaduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=25, is_drum=False, name="")]
+
+57 data/guitar_duet/bach_bouree_alto_guit_duet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar 2"), Instrument(program=24, is_drum=False, name="")]
+
+58 data/guitar_duet/carulli_duet_g.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="Guitar")]
+
+59 data/guitar_duet/Liberty_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+60 data/guitar_duet/la_partida.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+61 data/guitar_duet/adagio_pat.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+62 data/guitar_duet/QueenofSheebaduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+63 data/guitar_duet/NobodyKnowstheTroubleduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+64 data/guitar_duet/ThemefromPianoConcertoduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+65 data/guitar_duet/TrioSchumannduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+66 data/guitar_duet/dvorak_humoresque.mid [Instrument(program=0, is_drum=False, name="Guitar  1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+67 data/guitar_duet/Green_Sleeves_and_Yellow_Lace_2GTRS.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]"), Instrument(program=0, is_drum=False, name="[Staff 4]")]
+
+68 data/guitar_duet/Ar_HydGUITDUO.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+69 data/guitar_duet/Scarborough_Fair_2GUIT.mid [Instrument(program=24, is_drum=False, name="Guitar 1"), Instrument(program=24, is_drum=False, name="Guitar 2")]
+
+70 data/guitar_duet/MyLadyCareyGUITDUET.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+71 data/guitar_duet/WesternBluesduet.mid [Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name=""), Instrument(program=24, is_drum=False, name="Guitar"), Instrument(program=24, is_drum=False, name="")]
+
+72 data/guitar_duet/joshua_fit_the_battleGUITDUET.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+73 data/guitar_duet/AintGUIT_DUO.mid [Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar"), Instrument(program=0, is_drum=False, name="")]
+
+74 data/guitar_duet/brahms_lullaby2GUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+75 data/guitar_duet/24th_st_rag.mid [Instrument(program=0, is_drum=False, name="Guitar 1"), Instrument(program=0, is_drum=False, name=""), Instrument(program=0, is_drum=False, name="Guitar 2"), Instrument(program=0, is_drum=False, name="")]
+
+76 data/guitar_duet/Pretty_Misss_Fancy_2GTR.mid [Instrument(program=0, is_drum=False, name="[Staff 1]"), Instrument(program=0, is_drum=False, name="[Staff 3]"), Instrument(program=0, is_drum=False, name="[Staff 2]")]
+
+77 data/guitar_duet/waldteufel_skaters_waltzGUITs.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+
+78 data/guitar_duet/Hail_to_the_ChiefGUIT.mid [Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar"), Instrument(program=25, is_drum=False, name="Acoustic Guitar")]
+

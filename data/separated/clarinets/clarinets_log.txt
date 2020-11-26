@@ -1,0 +1,314 @@
+0 data/clarinet_duet/tchaikovksy_flower_waltz.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+1 data/clarinet_duet/schubert_sym_5F5CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+2 data/clarinet_duet/dansemacsaintsa_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+3 data/clarinet_duet/god_gloryCLD.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+4 data/clarinet_duet/carol_of_the_bells.mid [Instrument(program=0, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=0, is_drum=False, name="Clarinet 2 in Bb")]
+
+5 data/clarinet_duet/alabama2CLs.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+6 data/clarinet_duet/marines_hymn_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+7 data/clarinet_duet/serenade_k361_3rd_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+8 data/clarinet_duet/tchaik6_2_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+9 data/clarinet_duet/we_three_kings_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+10 data/clarinet_duet/SivivonCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+11 data/clarinet_duet/clementi_un_poco_adagioCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+12 data/clarinet_duet/submarine_warfareCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+13 data/clarinet_duet/rest_in_the_lord_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+14 data/clarinet_duet/dvorak_op98_no.vCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+15 data/clarinet_duet/skip_to_my_lou_CLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+16 data/clarinet_duet/partita830CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+17 data/clarinet_duet/how_great_thou_art_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+18 data/clarinet_duet/e_pari_ra_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+19 data/clarinet_duet/greensleeves.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+20 data/clarinet_duet/elgarsym_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+21 data/clarinet_duet/when_the_saints_CM_CLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+22 data/clarinet_duet/Zitter_Waltz_2CL.mid [Instrument(program=0, is_drum=False, name="Cl. 1"), Instrument(program=0, is_drum=False, name="Cl. 2")]
+
+23 data/clarinet_duet/loch_lomondCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+24 data/clarinet_duet/wanhall_duet3CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+25 data/clarinet_duet/radetsky_marchCLs.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+26 data/clarinet_duet/mascagni_intermezzo_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+27 data/clarinet_duet/respighi_siciliana_CLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+28 data/clarinet_duet/o_holy_night.mid [Instrument(program=0, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=0, is_drum=False, name="Clarinet 2 in Bb")]
+
+29 data/clarinet_duet/fete_torerosCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+30 data/clarinet_duet/maple_leaf_rag_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+31 data/clarinet_duet/coventry_carolCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+32 data/clarinet_duet/the_entertainer.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+33 data/clarinet_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+34 data/clarinet_duet/wanhall_2CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+35 data/clarinet_duet/scarborough_fair_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+36 data/clarinet_duet/alabamajubileeCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+37 data/clarinet_duet/DUETPearlFishersCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+38 data/clarinet_duet/tchaikovksy_sugar_plum.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+39 data/clarinet_duet/march_priests_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+40 data/clarinet_duet/mountain_thyme_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+41 data/clarinet_duet/ElgarSerenadeCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+42 data/clarinet_duet/DvorakFromtheNewWorldCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+43 data/clarinet_duet/carolansCLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+44 data/clarinet_duet/lakme_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+45 data/clarinet_duet/faure_auborddleau_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+46 data/clarinet_duet/Mozart12_12.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+47 data/clarinet_duet/duos_allegroCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+48 data/clarinet_duet/dvorak_humoresque_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+49 data/clarinet_duet/poppea_pur_tiCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+50 data/clarinet_duet/beethoven_musical_clock.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+51 data/clarinet_duet/wanhall_8CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+52 data/clarinet_duet/wanhall_duet4CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+53 data/clarinet_duet/duos_marciaCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+54 data/clarinet_duet/tipperary_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+55 data/clarinet_duet/faure_pie_jesu_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+56 data/clarinet_duet/Mozart12_11.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+57 data/clarinet_duet/wanhall_5F5CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+58 data/clarinet_duet/mozart_k487_no5.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+59 data/clarinet_duet/grieg_morning.mid [Instrument(program=0, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=0, is_drum=False, name="Clarinet 2 in Bb")]
+
+60 data/clarinet_duet/Mozart12_10.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+61 data/clarinet_duet/bleak_midwinter_CLCL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+62 data/clarinet_duet/franck_panis_angelicus_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+63 data/clarinet_duet/cpe_bach_duet_wq_142_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1"), Instrument(program=71, is_drum=False, name="Clarinet 2")]
+
+64 data/clarinet_duet/poulesCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+65 data/clarinet_duet/giordani_caro_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+66 data/clarinet_duet/spring_longer_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+67 data/clarinet_duet/Mozart12_9.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+68 data/clarinet_duet/duos_menuttoCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+69 data/clarinet_duet/the_easy_winnersCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+70 data/clarinet_duet/mozart_k487_no1.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+71 data/clarinet_duet/old_macdonald_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+72 data/clarinet_duet/danny_boy_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+73 data/clarinet_duet/Mozart12_8.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+74 data/clarinet_duet/haydn_3duets_menuetto1CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+75 data/clarinet_duet/bach_air.mid [Instrument(program=0, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=0, is_drum=False, name="Clarinet 2 in Bb")]
+
+76 data/clarinet_duet/twinkle_twinkle_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+77 data/clarinet_duet/mexican_hat_dance2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+78 data/clarinet_duet/mozart_k487_no2.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+79 data/clarinet_duet/mozart_k487_no3.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+80 data/clarinet_duet/zwiefacher_eisenkeilnestCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+81 data/clarinet_duet/were_you_thereCLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+82 data/clarinet_duet/schumann_melodyCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+83 data/clarinet_duet/mozart_sym40_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+84 data/clarinet_duet/tchaik_serenade_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+85 data/clarinet_duet/seraglio_duetCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+86 data/clarinet_duet/faure_pavane.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+87 data/clarinet_duet/colonel_bogey_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+88 data/clarinet_duet/silver_sand_ragCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+89 data/clarinet_duet/morning_has_broken_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+90 data/clarinet_duet/Mozart12_7.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+91 data/clarinet_duet/Birds_Galopade_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+92 data/clarinet_duet/arne_MinuetCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+93 data/clarinet_duet/in_the_sweet_by_and_byCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+94 data/clarinet_duet/cat_duetCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+95 data/clarinet_duet/wanhall_6CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+96 data/clarinet_duet/camptown_races_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+97 data/clarinet_duet/tico_tico_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+98 data/clarinet_duet/mendelssohn_wedding_march.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+99 data/clarinet_duet/when_the_saints_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+100 data/clarinet_duet/marionetteCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+101 data/clarinet_duet/gavotte_gossec_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+102 data/clarinet_duet/haydn_3duets_menuetto2CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+103 data/clarinet_duet/away_in_a_manger_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=58, is_drum=False, name="Tuba (Part 2)")]
+
+104 data/clarinet_duet/when_johnnyCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+105 data/clarinet_duet/ButterworthTheBanksfGreenWillowCLs.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+106 data/clarinet_duet/lo_how_a_rose_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+107 data/clarinet_duet/rossini_william_tell_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+108 data/clarinet_duet/bachariosobwv156_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+109 data/clarinet_duet/euphonic_soundsCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+110 data/clarinet_duet/wfbach_2nd_viola_duetCL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+111 data/clarinet_duet/bach_sheep.mid [Instrument(program=0, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=0, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+112 data/clarinet_duet/military_sinfoniaCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+113 data/clarinet_duet/voicesofspring_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+114 data/clarinet_duet/duos_menuettCL.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+115 data/clarinet_duet/blow_the_winds_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+116 data/clarinet_duet/capriccio.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+117 data/clarinet_duet/la_roseCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+118 data/clarinet_duet/Menuett1CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+119 data/clarinet_duet/o_sole_mioCLs.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+120 data/clarinet_duet/yellow_bird_CLCL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+121 data/clarinet_duet/battle_hymn_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+122 data/clarinet_duet/the_rose_of_tralee_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+123 data/clarinet_duet/irish_jig_medley_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+124 data/clarinet_duet/alouetteCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+125 data/clarinet_duet/shenandoah_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+126 data/clarinet_duet/gardel_por.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+127 data/clarinet_duet/beethoven_ode_to_joyCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+128 data/clarinet_duet/kv545-allegro_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+129 data/clarinet_duet/chanson_bohemeCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+130 data/clarinet_duet/moonlight_sonata_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+131 data/clarinet_duet/jingle_bells_boogieCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+132 data/clarinet_duet/grand_old_duke_CLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+133 data/clarinet_duet/24th_st_ragCLDUET.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+134 data/clarinet_duet/but_ere_we_thisCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+135 data/clarinet_duet/Celebrated_Waltz_2cl.mid [Instrument(program=73, is_drum=False, name="Clarinet"), Instrument(program=73, is_drum=False, name="Clarinet")]
+
+136 data/clarinet_duet/goodking.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+137 data/clarinet_duet/wanhall_5F7CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+138 data/clarinet_duet/anchors_aweigh_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+139 data/clarinet_duet/golondrinaCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+140 data/clarinet_duet/minuetk1.mid [Instrument(program=0, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Clarinet in Bb")]
+
+141 data/clarinet_duet/tchaikovsky_waltz.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+142 data/clarinet_duet/The_Resting_Chair_2CL.mid [Instrument(program=0, is_drum=False, name="Cl in Bb 1"), Instrument(program=0, is_drum=False, name="Cl in Bb 2")]
+
+143 data/clarinet_duet/rappel_oiseaux_CLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+144 data/clarinet_duet/o_comeCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+145 data/clarinet_duet/mendelssohn_italianCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+146 data/clarinet_duet/la_paloma_tangoCLDUET.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+147 data/clarinet_duet/duos_adagioCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+148 data/clarinet_duet/we_wish_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=58, is_drum=False, name="Tuba (Part 2)")]
+
+149 data/clarinet_duet/cwm_rhondda_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+150 data/clarinet_duet/bach_double.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+151 data/clarinet_duet/MenuettinCLMozartCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+152 data/clarinet_duet/daisy_CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb")]
+
+153 data/clarinet_duet/la_virtuosaCLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+154 data/clarinet_duet/jingle_bells_2CL.mid [Instrument(program=71, is_drum=False, name="Clarinet 1 in Bb"), Instrument(program=71, is_drum=False, name="Clarinet 2 in Bb"), Instrument(program=58, is_drum=False, name="Tuba (Part 2)")]
+
+155 data/clarinet_duet/wanhall_1CLduet.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+
+156 data/clarinet_duet/mozart_sonata331CLs.mid [Instrument(program=71, is_drum=False, name="Clarinet in Bb"), Instrument(program=71, is_drum=False, name="Clarinet in Bb")]
+

@@ -1,0 +1,72 @@
+0 data/french_horn_duet/24th_st_ragHN.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+1 data/french_horn_duet/were_you_thereHNDUET.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+2 data/french_horn_duet/danny_boy_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+3 data/french_horn_duet/poulesHNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+4 data/french_horn_duet/moanerHNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+5 data/french_horn_duet/lakme_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F"), Instrument(program=0, is_drum=False, name="Piano")]
+
+6 data/french_horn_duet/DvorakFromtheNewWorldHN.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+7 data/french_horn_duet/faure_auborddleau_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F"), Instrument(program=0, is_drum=False, name="Piano")]
+
+8 data/french_horn_duet/carolansHNDUET.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+9 data/french_horn_duet/good_timeHNduet.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+10 data/french_horn_duet/carol_of_the_bellsHNduet.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+11 data/french_horn_duet/mascagni_intermezzo_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+12 data/french_horn_duet/when_the_saints.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+13 data/french_horn_duet/duos_marcia.mid [Instrument(program=0, is_drum=False, name="Horn in F"), Instrument(program=0, is_drum=False, name="Horn in F")]
+
+14 data/french_horn_duet/skip_to_my_lou_HNDUET.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+15 data/french_horn_duet/radetsky_marchHNs.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+16 data/french_horn_duet/when_the_saints_CM_HNDUET.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+17 data/french_horn_duet/marines_hymn_HNduet.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+18 data/french_horn_duet/trumpet_voluntary.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+19 data/french_horn_duet/mendelssohn_italian_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+20 data/french_horn_duet/o_comeHNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+21 data/french_horn_duet/grand_old_duke_HNDUET.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+22 data/french_horn_duet/schubert_sym_5HNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+23 data/french_horn_duet/mozart_sonata331HNs.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+24 data/french_horn_duet/goodkingHNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+25 data/french_horn_duet/rossini_william_tell_2HN.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+
+26 data/french_horn_duet/Hail_to_the_ChiefHN.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+27 data/french_horn_duet/duos_adagio.mid [Instrument(program=0, is_drum=False, name="Horn in F"), Instrument(program=0, is_drum=False, name="Horn in F")]
+
+28 data/french_horn_duet/duos_menutto.mid [Instrument(program=0, is_drum=False, name="Horn in F"), Instrument(program=0, is_drum=False, name="Horn in F")]
+
+29 data/french_horn_duet/la_marseilleiseHN.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+30 data/french_horn_duet/seraglio_duetHN.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+31 data/french_horn_duet/minuet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+32 data/french_horn_duet/duos_menuett.mid [Instrument(program=0, is_drum=False, name="Horn in F"), Instrument(program=0, is_drum=False, name="Horn in F")]
+
+33 data/french_horn_duet/o_sole_mioHNs.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F")]
+
+34 data/french_horn_duet/cat_duetHNduet.mid [Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=59, is_drum=False, name="Horn in F"), Instrument(program=60, is_drum=False, name="Horn in F"), Instrument(program=59, is_drum=False, name="Horn in F"), Instrument(program=0, is_drum=False, name="Piano")]
+
+35 data/french_horn_duet/partita830ASAX_HNduet.mid [Instrument(program=60, is_drum=False, name="Horn 1 in F"), Instrument(program=60, is_drum=False, name="Horn 2 in F")]
+

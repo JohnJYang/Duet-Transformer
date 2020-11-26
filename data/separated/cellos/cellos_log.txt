@@ -1,0 +1,310 @@
+0 data/cello_duet/MenuettinCLMozartVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+1 data/cello_duet/alabamajubileeVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+2 data/cello_duet/giordani_caro_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+3 data/cello_duet/barcarolle_vc_duet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+4 data/cello_duet/partita830VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+5 data/cello_duet/mozart_sym25_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+6 data/cello_duet/bach_bist_du_bei_mirvlcduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+7 data/cello_duet/clementi_un_poco_adagioVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+8 data/cello_duet/duos_allegroVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+9 data/cello_duet/brahms_hungarian_dance_5.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+10 data/cello_duet/wanhall_duet3VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+11 data/cello_duet/wanhall_1VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+12 data/cello_duet/faure_pie_jesu_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+13 data/cello_duet/when_the_saints_CM_VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+14 data/cello_duet/duos_menuttoVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+15 data/cello_duet/o_comeVLCduet.mid [Instrument(program=48, is_drum=False, name="Violoncello"), Instrument(program=48, is_drum=False, name="Violoncello")]
+
+16 data/cello_duet/minuetk1VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+17 data/cello_duet/schubert_sym_5VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+18 data/cello_duet/when_johnnyVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+19 data/cello_duet/tchaik6_2_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+20 data/cello_duet/Mozart12_8VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+21 data/cello_duet/wagner_wedding_march.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+22 data/cello_duet/yellow_bird_VLCVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+23 data/cello_duet/battle_hymn_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+24 data/cello_duet/turkish_march_full2VCL.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello")]
+
+25 data/cello_duet/simple_giftsVCLS.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+26 data/cello_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello")]
+
+27 data/cello_duet/handel_queen_of_sheeba.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+28 data/cello_duet/daquin_le_coucou_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+29 data/cello_duet/grand_old_duke_VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+30 data/cello_duet/la_marseilleiseVLC.mid [Instrument(program=48, is_drum=False, name="Violoncello"), Instrument(program=48, is_drum=False, name="Violoncello")]
+
+31 data/cello_duet/wfbach_2nd_viola_duetVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+32 data/cello_duet/franck_panis_angelicus_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+33 data/cello_duet/the_rose_of_tralee_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+34 data/cello_duet/bach_airvlcduet.mid [Instrument(program=0, is_drum=False, name="Violoncello 1"), Instrument(program=0, is_drum=False, name="Violoncello 2")]
+
+35 data/cello_duet/vivaldi_springVCLDUET.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello")]
+
+36 data/cello_duet/rappel_oiseaux_VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+37 data/cello_duet/gounod_ave_maria.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+38 data/cello_duet/lamiable_jeunessevlcs.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=48, is_drum=False, name="Violoncello 2")]
+
+39 data/cello_duet/les_quatre_nimphesvlcvlc.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+40 data/cello_duet/zwiefacher_eisenkeilnestVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+41 data/cello_duet/poulesVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+42 data/cello_duet/la_virtuosaVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+43 data/cello_duet/haydn_3duets_menuetto1VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+44 data/cello_duet/golondrinaVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+45 data/cello_duet/loch_lomondVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+46 data/cello_duet/lakme_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+47 data/cello_duet/bachariosobwv156_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+48 data/cello_duet/carolansVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+49 data/cello_duet/wanhall_6VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+50 data/cello_duet/bach_jesu_joy.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+51 data/cello_duet/jasmine_flower_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+52 data/cello_duet/wanhall_duet4VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+53 data/cello_duet/rossini_william_tell_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+54 data/cello_duet/kv545-allegro_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+55 data/cello_duet/irish_jig_medley_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+56 data/cello_duet/gardel_por_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+57 data/cello_duet/mozart_k487_no6VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+58 data/cello_duet/dansemacsaintsa_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+59 data/cello_duet/anchors_aweigh_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+60 data/cello_duet/the_easy_winnersVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+61 data/cello_duet/ButterworthTheBanksfGreenWillowVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+62 data/cello_duet/cat_duetVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+63 data/cello_duet/bleak_midwinter_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+64 data/cello_duet/ElgarSerenadeVLCs.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+65 data/cello_duet/Mozart12_7VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+66 data/cello_duet/schumann_melodyVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+67 data/cello_duet/Mozart12_10VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+68 data/cello_duet/mozart_k487_no2.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+69 data/cello_duet/gavotte_gossec_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+70 data/cello_duet/were_you_thereVLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+71 data/cello_duet/jingle_bells_boogieVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=45, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=45, is_drum=False, name="Violoncello")]
+
+72 data/cello_duet/mozart_k487_no4VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+73 data/cello_duet/radetsky_marchVLCs.mid [Instrument(program=48, is_drum=False, name="Violoncello"), Instrument(program=48, is_drum=False, name="Violoncello")]
+
+74 data/cello_duet/o_sole_mioVLCs.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+75 data/cello_duet/submarine_warfareVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+76 data/cello_duet/mozart_k487_no5VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+77 data/cello_duet/in_the_sweet_by_and_byVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+78 data/cello_duet/vivaldi_wintervlcs.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+79 data/cello_duet/mexican_hat_dance.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+80 data/cello_duet/sarabande_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+81 data/cello_duet/when_the_saints_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+82 data/cello_duet/but_ere_we_this_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+83 data/cello_duet/el_chocloVLCduet.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello")]
+
+84 data/cello_duet/holst_jupiter.mid [Instrument(program=0, is_drum=False, name="Violoncello 1"), Instrument(program=0, is_drum=False, name="Violoncello 2")]
+
+85 data/cello_duet/Mozart12_9VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+86 data/cello_duet/24th_st_ragVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+87 data/cello_duet/shenandoah_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+88 data/cello_duet/marines_hymn_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+89 data/cello_duet/the_parting_glass_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+90 data/cello_duet/ave_vlcs.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+91 data/cello_duet/chanson_bohemeVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+92 data/cello_duet/e_pari_ra_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+93 data/cello_duet/DUETPearlFishers.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+94 data/cello_duet/mendelssohn_italianVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+95 data/cello_duet/trumpet_voluntary_duet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+96 data/cello_duet/tico_tico_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+97 data/cello_duet/agentVLC.mid [Instrument(program=48, is_drum=False, name="Violoncello"), Instrument(program=48, is_drum=False, name="Violoncello")]
+
+98 data/cello_duet/cpe_bach_duet_wq_142_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+99 data/cello_duet/faure_auborddleau_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=45, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=45, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+100 data/cello_duet/beethoven_ode_to_joyVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+101 data/cello_duet/wanhall_8VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+102 data/cello_duet/seraglio_duetVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+103 data/cello_duet/chaminade_lolitaVLCDUET.mid [Instrument(program=0, is_drum=False, name="Violoncello 1"), Instrument(program=0, is_drum=False, name="Violoncello 2")]
+
+104 data/cello_duet/marionette_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+105 data/cello_duet/manly_heartVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+106 data/cello_duet/Mozart12_1VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+107 data/cello_duet/spring_longer_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+108 data/cello_duet/wanhall_5VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+109 data/cello_duet/capriccio.mid [Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Violoncello"), Instrument(program=0, is_drum=False, name="Piano")]
+
+110 data/cello_duet/silver_sand_ragVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+111 data/cello_duet/alouetteVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+112 data/cello_duet/serenade_k361_3rd_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+113 data/cello_duet/military_sinfoniaVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+114 data/cello_duet/haydn_3duets_menuetto2VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+115 data/cello_duet/coventry_carolVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+116 data/cello_duet/mozart_k487_no3VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+117 data/cello_duet/bizet_habanera_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+118 data/cello_duet/January_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+119 data/cello_duet/euphonic_soundsVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+120 data/cello_duet/the_entertainerVCLDUET.mid [Instrument(program=0, is_drum=False, name="Violoncello 1"), Instrument(program=0, is_drum=False, name="Violoncello 2")]
+
+121 data/cello_duet/daisy_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+122 data/cello_duet/respighi_siciliana_VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+123 data/cello_duet/mountain_thyme_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+124 data/cello_duet/alabama2VLCs.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+125 data/cello_duet/maple_leaf_rag_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+126 data/cello_duet/duos_menuettVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+127 data/cello_duet/moanerVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+128 data/cello_duet/wanhall_2VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+129 data/cello_duet/mozart_sym40_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+130 data/cello_duet/duos_adagioVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+131 data/cello_duet/Mozart12_11VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+132 data/cello_duet/voicesofspring_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+133 data/cello_duet/good_timeVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+134 data/cello_duet/twinkle_twinkle_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+135 data/cello_duet/march_priests_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+136 data/cello_duet/parkgate_highVLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+137 data/cello_duet/mozart_sonata331VLCs.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+138 data/cello_duet/la_cucaracha.mid [Instrument(program=0, is_drum=False, name="Violoncello 1 "), Instrument(program=0, is_drum=False, name="Violoncello 2")]
+
+139 data/cello_duet/silent_nightVLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+140 data/cello_duet/dvorak_op98_no.vVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+141 data/cello_duet/skip_to_my_lou_VLCDUET.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+142 data/cello_duet/duos_marciaVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+143 data/cello_duet/minuet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+144 data/cello_duet/la_roseVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+145 data/cello_duet/el_cant_del_ocells_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+146 data/cello_duet/mascagni_intermezzo_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+147 data/cello_duet/rest_in_the_lord_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+148 data/cello_duet/old_macdonald_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+149 data/cello_duet/arne_MinuetVLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+150 data/cello_duet/cwm_rhondda_VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+151 data/cello_duet/wayfaring_stranger_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+152 data/cello_duet/wanhall_7VLCduet.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+
+153 data/cello_duet/danny_boy_2VLC.mid [Instrument(program=42, is_drum=False, name="Violoncello 1"), Instrument(program=42, is_drum=False, name="Violoncello 2")]
+
+154 data/cello_duet/DvorakFromtheNewWorldVLC.mid [Instrument(program=42, is_drum=False, name="Violoncello"), Instrument(program=42, is_drum=False, name="Violoncello")]
+

@@ -1,0 +1,140 @@
+0 data/trombone_duet/e_pari_ra_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+1 data/trombone_duet/when_the_saints_CM_TBNEDUET.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+2 data/trombone_duet/fete_torerosTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=0, is_drum=False, name="Piano")]
+
+3 data/trombone_duet/cat_duet_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=59, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2"), Instrument(program=59, is_drum=False, name="Trombone 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+4 data/trombone_duet/DvorakFromtheNewWorldTBNEs.mid [Instrument(program=57, is_drum=False, name="Tenor Trombone"), Instrument(program=57, is_drum=False, name="Tenor Trombone")]
+
+5 data/trombone_duet/gavotte_gossec_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+6 data/trombone_duet/Menuett1TBNEs.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+7 data/trombone_duet/o_comeTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+8 data/trombone_duet/elgarsym_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+9 data/trombone_duet/cwm_rhondda_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+10 data/trombone_duet/danny_boy_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+11 data/trombone_duet/pongauer_jodler_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+12 data/trombone_duet/bleak_midwinter_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+13 data/trombone_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Trombone"), Instrument(program=0, is_drum=False, name="Trombone")]
+
+14 data/trombone_duet/menuettinclmozart_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+15 data/trombone_duet/mountain_thyme_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+16 data/trombone_duet/daisy_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+17 data/trombone_duet/Celebrated_Waltz_2trb.mid [Instrument(program=73, is_drum=False, name="Trombone"), Instrument(program=73, is_drum=False, name="Trombone")]
+
+18 data/trombone_duet/submarine_warfareTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+19 data/trombone_duet/jasmine_flower_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+20 data/trombone_duet/ElgarSerenadeTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+21 data/trombone_duet/mozart_sonata331TBNEs.mid [Instrument(program=57, is_drum=False, name="Tenor Trombone"), Instrument(program=57, is_drum=False, name="Tenor Trombone")]
+
+22 data/trombone_duet/anchors_aweigh_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+23 data/trombone_duet/la_paloma_tangoTBNEDUET.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=0, is_drum=False, name="Piano")]
+
+24 data/trombone_duet/when_johnnyTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+25 data/trombone_duet/national_anthem_russia_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+26 data/trombone_duet/tipperary_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+27 data/trombone_duet/bachariosobwv156_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+28 data/trombone_duet/respighi_siciliana_TBNEDUET.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+29 data/trombone_duet/loch_lomondTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+30 data/trombone_duet/rossini_william_tell_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+31 data/trombone_duet/yellow_bird_TBNETBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+32 data/trombone_duet/joyful_joyful_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+33 data/trombone_duet/mendelssohn_italian_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+34 data/trombone_duet/lo_how_a_rose_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+35 data/trombone_duet/duos_menuttoTBNE.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+36 data/trombone_duet/Hail_to_the_ChiefTBNE.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+37 data/trombone_duet/battle_hymn_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+38 data/trombone_duet/old_macdonald_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+39 data/trombone_duet/marionetteTBNE.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+40 data/trombone_duet/alouetteTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+41 data/trombone_duet/but_ere_we_thisTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+42 data/trombone_duet/duos_marciaTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+43 data/trombone_duet/duos_adagioTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+44 data/trombone_duet/were_you_thereTBNEDUET.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+45 data/trombone_duet/euphonic_soundsTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+46 data/trombone_duet/duos_menuettTBNE.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+47 data/trombone_duet/goodkingTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+48 data/trombone_duet/drink_to_meTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+49 data/trombone_duet/this_little_light_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+50 data/trombone_duet/duos_allegroTBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+51 data/trombone_duet/24th_st_ragTBNE.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+52 data/trombone_duet/mascagni_intermezzo_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+53 data/trombone_duet/dansemacsaintsa_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+54 data/trombone_duet/shenandoah_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+55 data/trombone_duet/the_easy_winnersTBNE.mid [Instrument(program=57, is_drum=False, name="Tenor Trombone"), Instrument(program=57, is_drum=False, name="Tenor Trombone"), Instrument(program=0, is_drum=False, name="Piano")]
+
+56 data/trombone_duet/o_sole_mioTBNEs.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+57 data/trombone_duet/carolansTBNEDUET.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+58 data/trombone_duet/twinkle_twinkle_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+59 data/trombone_duet/march_priests_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+60 data/trombone_duet/ashgrove_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+61 data/trombone_duet/rest_in_the_lord_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+62 data/trombone_duet/sivivon_tbne_duet.mid [Instrument(program=57, is_drum=False, name="Trombone"), Instrument(program=57, is_drum=False, name="Trombone")]
+
+63 data/trombone_duet/faure_pie_jesu_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+64 data/trombone_duet/faure_auborddleau_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+65 data/trombone_duet/bach_jesu_joy_2TBNE.mid [Instrument(program=66, is_drum=False, name="Tenor Saxophone"), Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+66 data/trombone_duet/la_marseilleiseTBNE.mid [Instrument(program=57, is_drum=False, name="Tenor Trombone"), Instrument(program=57, is_drum=False, name="Tenor Trombone")]
+
+67 data/trombone_duet/marines_hymn_TBNEduet.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2")]
+
+68 data/trombone_duet/minuetTRBDUET.mid [Instrument(program=0, is_drum=False, name="Trombone"), Instrument(program=0, is_drum=False, name="Trombone")]
+
+69 data/trombone_duet/serenade_k361_3rd_2TBNE.mid [Instrument(program=57, is_drum=False, name="Trombone 1"), Instrument(program=57, is_drum=False, name="Trombone 2"), Instrument(program=0, is_drum=False, name="Piano")]
+

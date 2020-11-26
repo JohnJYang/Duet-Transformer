@@ -1,0 +1,230 @@
+0 data/Raw/trumpet_duet/faure_auborddleau_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+1 data/Raw/trumpet_duet/drink_to_meTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+2 data/Raw/trumpet_duet/fete_torerosTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+3 data/Raw/trumpet_duet/radetsky_marchTPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+4 data/Raw/trumpet_duet/o_sole_mioTPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+5 data/Raw/trumpet_duet/seraglio_duetTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+6 data/Raw/trumpet_duet/savior_again_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+7 data/Raw/trumpet_duet/cat_duetTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=59, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=59, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+8 data/Raw/trumpet_duet/bleak_midwinter_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+9 data/Raw/trumpet_duet/poppea_pur_tiTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+10 data/Raw/trumpet_duet/serenade_k361_3rd_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+11 data/Raw/trumpet_duet/were_you_thereTPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+12 data/Raw/trumpet_duet/jingle_bells_boogieTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+13 data/Raw/trumpet_duet/la_cucaracha_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+14 data/Raw/trumpet_duet/zwiefacher_eisenkeilnestTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+15 data/Raw/trumpet_duet/the_entertainer.mid [Instrument(program=0, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=0, is_drum=False, name="Trumpet 2 in Bb")]
+
+16 data/Raw/trumpet_duet/24th_st_ragTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+17 data/Raw/trumpet_duet/la_virtuosaTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+18 data/Raw/trumpet_duet/shenandoah_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+19 data/Raw/trumpet_duet/poulesTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+20 data/Raw/trumpet_duet/golondrinaTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+21 data/Raw/trumpet_duet/e_pari_ra_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+22 data/Raw/trumpet_duet/haydn_3duets_menuetto1TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+23 data/Raw/trumpet_duet/loch_lomondTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+24 data/Raw/trumpet_duet/moonlight_sonata_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+25 data/Raw/trumpet_duet/SivivonTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+26 data/Raw/trumpet_duet/when_the_saints_CM_TPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+27 data/Raw/trumpet_duet/alabama2TPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+28 data/Raw/trumpet_duet/o_comeTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+29 data/Raw/trumpet_duet/minuetk1TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+30 data/Raw/trumpet_duet/colonel_bogey_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+31 data/Raw/trumpet_duet/schubert_sym_5TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+32 data/Raw/trumpet_duet/when_johnnyTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+33 data/Raw/trumpet_duet/mascagni_intermezzo_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+34 data/Raw/trumpet_duet/rest_in_the_lord_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+35 data/Raw/trumpet_duet/old_macdonald_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+36 data/Raw/trumpet_duet/but_ere_we_thisTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+37 data/Raw/trumpet_duet/mozart_sonata331TPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+38 data/Raw/trumpet_duet/ashgrove_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+39 data/Raw/trumpet_duet/grand_old_duke_TPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+40 data/Raw/trumpet_duet/danny_boy_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+41 data/Raw/trumpet_duet/duos_marcia.mid [Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Trumpet in Bb")]
+
+42 data/Raw/trumpet_duet/MenuettinCLMozartTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+43 data/Raw/trumpet_duet/dvorak_op98_no.v_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+44 data/Raw/trumpet_duet/Hail_to_the_ChiefTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+45 data/Raw/trumpet_duet/mountain_thyme_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+46 data/Raw/trumpet_duet/alabamajubileeTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+47 data/Raw/trumpet_duet/when_the_saints2TPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+48 data/Raw/trumpet_duet/vivaldi_2tptTPTduet.mid [Instrument(program=56, is_drum=False, name="C Trumpet"), Instrument(program=56, is_drum=False, name="C Trumpet"), Instrument(program=0, is_drum=False, name="Piano")]
+
+49 data/Raw/trumpet_duet/bach_air.mid [Instrument(program=0, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=0, is_drum=False, name="Trumpet 2 in Bb")]
+
+50 data/Raw/trumpet_duet/this_little_light_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+51 data/Raw/trumpet_duet/how_great_thou_art_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+52 data/Raw/trumpet_duet/la_paloma_tangoTPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+53 data/Raw/trumpet_duet/ButterworthTheBanksfGreenWillowTPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+54 data/Raw/trumpet_duet/Celebrated_Waltz_2trp.mid [Instrument(program=73, is_drum=False, name="Trumpet"), Instrument(program=73, is_drum=False, name="Trumpet")]
+
+55 data/Raw/trumpet_duet/twinkle_twinkle_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+56 data/Raw/trumpet_duet/march_priests_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+57 data/Raw/trumpet_duet/pongauer_jodler_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+58 data/Raw/trumpet_duet/faure_pie_jesu_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+59 data/Raw/trumpet_duet/skip_to_my_lou_TPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+60 data/Raw/trumpet_duet/vivaldi_spring_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=42, is_drum=False, name="Violoncello (Player 2)")]
+
+61 data/Raw/trumpet_duet/trumpet_voluntary.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+62 data/Raw/trumpet_duet/The_Resting_Chair_2Tpt.mid [Instrument(program=0, is_drum=False, name="Bb Tpt. 1"), Instrument(program=0, is_drum=False, name="Bb Tpt. 2")]
+
+63 data/Raw/trumpet_duet/la_roseTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+64 data/Raw/trumpet_duet/battle_hymn_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+65 data/Raw/trumpet_duet/yellow_bird_TPTTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+66 data/Raw/trumpet_duet/cwm_rhondda_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+67 data/Raw/trumpet_duet/la_marseilleiseTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+68 data/Raw/trumpet_duet/wfbach_2nd_viola_duetTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+69 data/Raw/trumpet_duet/euphonic_soundsTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+70 data/Raw/trumpet_duet/respighi_siciliana_TPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+71 data/Raw/trumpet_duet/mexican_hat_dance2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+72 data/Raw/trumpet_duet/daisy_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+73 data/Raw/trumpet_duet/beethoven_fur_elise_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+74 data/Raw/trumpet_duet/moanerTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+75 data/Raw/trumpet_duet/Menuett1TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+76 data/Raw/trumpet_duet/tipperary_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+77 data/Raw/trumpet_duet/capriccio.mid [Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+78 data/Raw/trumpet_duet/elgarsym_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+79 data/Raw/trumpet_duet/duos_allegro.mid [Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Trumpet in Bb")]
+
+80 data/Raw/trumpet_duet/good_timeTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+81 data/Raw/trumpet_duet/carol_of_the_bellsTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+82 data/Raw/trumpet_duet/jasmine_flower_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+83 data/Raw/trumpet_duet/rossini_william_tell_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+84 data/Raw/trumpet_duet/beethoven_ode_to_joyTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+85 data/Raw/trumpet_duet/itsy_bitsy_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+86 data/Raw/trumpet_duet/DUETPearlFishersTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+87 data/Raw/trumpet_duet/manly_heartTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+88 data/Raw/trumpet_duet/the_easy_winnersTPT.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+89 data/Raw/trumpet_duet/anchors_aweigh_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+90 data/Raw/trumpet_duet/dansemacsaintsa_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+91 data/Raw/trumpet_duet/duos_adagio.mid [Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Trumpet in Bb")]
+
+92 data/Raw/trumpet_duet/duos_menutto.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+93 data/Raw/trumpet_duet/lo_how_a_rose_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+94 data/Raw/trumpet_duet/silver_sand_ragTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+95 data/Raw/trumpet_duet/alouetteTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+96 data/Raw/trumpet_duet/gavotte_gossec_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+97 data/Raw/trumpet_duet/haydn_3duets_menuetto2TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+98 data/Raw/trumpet_duet/boccherini_minuet_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+99 data/Raw/trumpet_duet/coventry_carolTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+100 data/Raw/trumpet_duet/goodking.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+101 data/Raw/trumpet_duet/wedding_march_duet_TPT_DUET.mid [Instrument(program=0, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=0, is_drum=False, name="Trumpet 2 in Bb")]
+
+102 data/Raw/trumpet_duet/in_the_sweet_by_and_byTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+103 data/Raw/trumpet_duet/submarine_warfareTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+104 data/Raw/trumpet_duet/national_anthem_russia_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+105 data/Raw/trumpet_duet/we_wishtptduet.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+106 data/Raw/trumpet_duet/carolansTPTDUET.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+107 data/Raw/trumpet_duet/marines_hymn_TPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+108 data/Raw/trumpet_duet/ElgarSerenadeTPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+109 data/Raw/trumpet_duet/mendelssohn_italianTPTduet.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+110 data/Raw/trumpet_duet/lakme_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=0, is_drum=False, name="Piano")]
+
+111 data/Raw/trumpet_duet/bachariosobwv156_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb")]
+
+112 data/Raw/trumpet_duet/duos_menuett.mid [Instrument(program=0, is_drum=False, name="Trumpet in Bb"), Instrument(program=0, is_drum=False, name="Trumpet in Bb")]
+
+113 data/Raw/trumpet_duet/DvorakFromtheNewWorldTPTs.mid [Instrument(program=56, is_drum=False, name="Trumpet in Bb"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+114 data/Raw/trumpet_duet/holst_jupiter_2TPT.mid [Instrument(program=56, is_drum=False, name="Trumpet 1 in Bb"), Instrument(program=56, is_drum=False, name="Trumpet 2 in Bb"), Instrument(program=58, is_drum=False, name="Baritone")]
+

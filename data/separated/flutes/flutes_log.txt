@@ -1,0 +1,326 @@
+0 data/flute_duet/jingle_bells_boogieFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+1 data/flute_duet/mozart_k487_no6FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+2 data/flute_duet/chanson_bohemeFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+3 data/flute_duet/wanhall_7FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+4 data/flute_duet/wfbach_2nd_viola_duetFL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+5 data/flute_duet/pongauer_jodler_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+6 data/flute_duet/Hail_to_the_ChiefFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+7 data/flute_duet/but_ere_we_thisFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+8 data/flute_duet/satie_gymnopedie_no1_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+9 data/flute_duet/grand_old_duke_FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+10 data/flute_duet/golondrinaFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+11 data/flute_duet/duos_menuettFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+12 data/flute_duet/kv545-allegro_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+13 data/flute_duet/mountain_thyme_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+14 data/flute_duet/irish_jig_medley_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+15 data/flute_duet/o_holy_night_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+16 data/flute_duet/la_marseilleiseFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+17 data/flute_duet/Mozart12_12FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+18 data/flute_duet/alouetteFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+19 data/flute_duet/danny_boy_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+20 data/flute_duet/beethoven_ode_to_joyFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+21 data/flute_duet/cwm_rhondda_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+22 data/flute_duet/seraglio_duetFL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+23 data/flute_duet/duos_adagioFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+24 data/flute_duet/gavotte_gossec_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+25 data/flute_duet/daisy_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+26 data/flute_duet/MenuettinCLMozartFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+27 data/flute_duet/elgarsym_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+28 data/flute_duet/wanhall_1FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+29 data/flute_duet/la_virtuosaFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+30 data/flute_duet/e_pari_ra_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+31 data/flute_duet/ElgarSerenadeFLs.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+32 data/flute_duet/beethoven_fur_elise.mid [Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Flute")]
+
+33 data/flute_duet/amazing_grace_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+34 data/flute_duet/marionetteFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+35 data/flute_duet/when_the_saints_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+36 data/flute_duet/rappel_oiseaux_FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+37 data/flute_duet/ravel_bolero_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+38 data/flute_duet/mendelssohn_italianFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+39 data/flute_duet/o_comeFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+40 data/flute_duet/mozart_k487_no4FL.mid [Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Flute")]
+
+41 data/flute_duet/drink_to_meFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+42 data/flute_duet/auld_lang_syne_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=56, is_drum=False, name="Trumpet in Bb")]
+
+43 data/flute_duet/wanhall_6FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+44 data/flute_duet/Mozart12_7FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+45 data/flute_duet/radetsky_marchFLs.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+46 data/flute_duet/beethoven_musical_clock.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+47 data/flute_duet/silver_sand_ragFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+48 data/flute_duet/lakmeFLs.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+49 data/flute_duet/mozart_k487_no5.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+50 data/flute_duet/morning_has_broken_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+51 data/flute_duet/rossini_william_tell_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+52 data/flute_duet/in_the_sweet_by_and_byFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+53 data/flute_duet/cat_duetFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+54 data/flute_duet/angels_v2_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+55 data/flute_duet/arne_MinuetFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+56 data/flute_duet/la_paloma_tango_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+57 data/flute_duet/giordani_caro_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+58 data/flute_duet/anchors_aweigh_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+59 data/flute_duet/the_rose_of_tralee_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+60 data/flute_duet/goodkingFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+61 data/flute_duet/la_roseFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+62 data/flute_duet/mozart_k487_no1.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+63 data/flute_duet/bachariosobwv156_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+64 data/flute_duet/tipperary_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+65 data/flute_duet/when_johnnyFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+66 data/flute_duet/Birds_Galopade_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+67 data/flute_duet/haydn_3duets_menuetto2FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+68 data/flute_duet/franck_panis_angelicus_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+69 data/flute_duet/euphonic_soundsFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+70 data/flute_duet/brahms_hungarian_dance.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2")]
+
+71 data/flute_duet/vivaldi_spring_easy_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+72 data/flute_duet/mozart_k487_no2.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+73 data/flute_duet/mozart_k487_no3.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+74 data/flute_duet/tchaik6_2_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+75 data/flute_duet/Celebrated_Waltz_5F2fl.mid [Instrument(program=73, is_drum=False, name="flute 1"), Instrument(program=73, is_drum=False, name="flute 2")]
+
+76 data/flute_duet/jasmine_flower_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+77 data/flute_duet/mascagni_intermezzo_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+78 data/flute_duet/duos_marciaFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+79 data/flute_duet/wagner_wedding_march_fls.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+80 data/flute_duet/wanhall_5F5FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+81 data/flute_duet/dansemacsaintsa_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+82 data/flute_duet/shenandoah_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+83 data/flute_duet/carolansFLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+84 data/flute_duet/mendelssohn_wedding_march.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2")]
+
+85 data/flute_duet/mozart_sonata331FLs.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+86 data/flute_duet/duos_allegroFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+87 data/flute_duet/i_love_the_mountainsFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1-4"), Instrument(program=73, is_drum=False, name="Flute")]
+
+88 data/flute_duet/dvorak_humoresque_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+89 data/flute_duet/DUETPearlFishersFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+90 data/flute_duet/poppea_pur_tiFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+91 data/flute_duet/el_condor_passa_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+92 data/flute_duet/wanhall_duet4FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+93 data/flute_duet/Mozart12_10FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+94 data/flute_duet/wanhall_8FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+95 data/flute_duet/good_timeFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+96 data/flute_duet/Mozart12_9FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+97 data/flute_duet/were_you_thereFLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+98 data/flute_duet/zwiefacher_eisenkeilnestFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+99 data/flute_duet/bach_sheep.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+100 data/flute_duet/mozart_sym40_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+101 data/flute_duet/schumann_melodyFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+102 data/flute_duet/ButterworthTheBanksfGreenWillowFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+103 data/flute_duet/spring_longer_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+104 data/flute_duet/moanerFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+105 data/flute_duet/tchaik_serenade_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+106 data/flute_duet/poulesFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+107 data/flute_duet/capriccio.mid [Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+108 data/flute_duet/duos_menuttoFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+109 data/flute_duet/goldberg_aria.mid [Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Flute")]
+
+110 data/flute_duet/old_macdonald_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+111 data/flute_duet/battle_hymn_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+112 data/flute_duet/The_Resting_Chair_5F2Fl.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2")]
+
+113 data/flute_duet/bleak_midwinter_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+114 data/flute_duet/haydn_3duets_menuetto1FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+115 data/flute_duet/dvorak_op98_no.vFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+116 data/flute_duet/skip_to_my_lou_FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+117 data/flute_duet/partita830FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+118 data/flute_duet/the_easy_winnersFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+119 data/flute_duet/24th_st_ragFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+120 data/flute_duet/serenade_k361_3rd_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+121 data/flute_duet/gardel_por.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+122 data/flute_duet/schubert_ave_maria.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+123 data/flute_duet/when_the_saints_CM_FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+124 data/flute_duet/schubert_sym_5F5FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+125 data/flute_duet/faure_auborddleau_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+126 data/flute_duet/o_sole_mioFLs.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+127 data/flute_duet/marines_hymn_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+128 data/flute_duet/pirates_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+129 data/flute_duet/Mozart12_11FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+130 data/flute_duet/cpe_bach_duet_wq_142_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+131 data/flute_duet/Mozart12_8FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+132 data/flute_duet/scarborough_fairFLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+133 data/flute_duet/submarine_warfareFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+134 data/flute_duet/clementi_un_poco_adagioFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+135 data/flute_duet/SivivonFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+136 data/flute_duet/voicesofspring_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+137 data/flute_duet/tico_tico_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+138 data/flute_duet/DvorakFromtheNewWorldFL.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+139 data/flute_duet/carol_of_the_bellsFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+140 data/flute_duet/rugged_cross_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+141 data/flute_duet/rest_in_the_lord_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+142 data/flute_duet/tchaikovksy_sugar_plum_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+143 data/flute_duet/Zitter_Waltz_5F2FL.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2")]
+
+144 data/flute_duet/minuetk1.mid [Instrument(program=0, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Flute")]
+
+145 data/flute_duet/alabamajubileeFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+146 data/flute_duet/greensleeves_fls.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+147 data/flute_duet/tchaikovsky_waltz.mid [Instrument(program=0, is_drum=False, name="Flute 1"), Instrument(program=0, is_drum=False, name="Flute 2")]
+
+148 data/flute_duet/minuet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+149 data/flute_duet/yellow_bird_FLFL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+150 data/flute_duet/wanhall_5F2FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+151 data/flute_duet/colonel_bogey_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+152 data/flute_duet/faure_pie_jesu_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+153 data/flute_duet/faure_pavane_FLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+154 data/flute_duet/loch_lomond.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+155 data/flute_duet/wanhall_duet3FLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+156 data/flute_duet/Menuett1FLs.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+
+157 data/flute_duet/respighi_siciliana_FLDUET.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+158 data/flute_duet/bach_double.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+159 data/flute_duet/i_wonder_5F2FLPN.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Bass Flute"), Instrument(program=0, is_drum=False, name="Piano")]
+
+160 data/flute_duet/fete_torerosFLduet.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+161 data/flute_duet/march_priests_5F2FL.mid [Instrument(program=73, is_drum=False, name="Flute 1"), Instrument(program=73, is_drum=False, name="Flute 2")]
+
+162 data/flute_duet/coventry_carolFLduet.mid [Instrument(program=73, is_drum=False, name="Flute"), Instrument(program=73, is_drum=False, name="Flute")]
+

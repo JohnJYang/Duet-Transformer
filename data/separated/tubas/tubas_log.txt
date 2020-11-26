@@ -1,0 +1,28 @@
+0 data/tuba_duet/Hail_to_the_ChiefTBA.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+1 data/tuba_duet/euphonic_sounds_tubaduet.mid [Instrument(program=58, is_drum=False, name="Tuba 1"), Instrument(program=58, is_drum=False, name="Tuba 2")]
+
+2 data/tuba_duet/were_you_thereTBADUET.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+3 data/tuba_duet/wanhall_8_tuba_duet.mid [Instrument(program=58, is_drum=False, name="Tuba 1"), Instrument(program=58, is_drum=False, name="Tuba 2")]
+
+4 data/tuba_duet/goodkingTBAduet.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+5 data/tuba_duet/tchaikovsky_waltz_2TBA.mid [Instrument(program=58, is_drum=False, name="Tuba 1"), Instrument(program=58, is_drum=False, name="Tuba 2")]
+
+6 data/tuba_duet/SivivonTBAduet.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+7 data/tuba_duet/aint_misbehavin_2TBA.mid [Instrument(program=58, is_drum=False, name="Tuba 1"), Instrument(program=58, is_drum=False, name="Tuba 2"), Instrument(program=0, is_drum=False, name="Piano")]
+
+8 data/tuba_duet/o_sole_mioTBAs.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+9 data/tuba_duet/Celebrated_Waltz_2tuba.mid [Instrument(program=73, is_drum=False, name="Tuba"), Instrument(program=73, is_drum=False, name="Tuba")]
+
+10 data/tuba_duet/submarine_warfareTBAduet.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+11 data/tuba_duet/marionetteTBA.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
+12 data/tuba_duet/CapriccioItalienTUBA.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=0, is_drum=False, name="Piano")]
+
+13 data/tuba_duet/moanerTBAduet.mid [Instrument(program=58, is_drum=False, name="Tuba"), Instrument(program=58, is_drum=False, name="Tuba")]
+
